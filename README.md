@@ -8,6 +8,8 @@ The final output is an **11-second rendered animation** that integrates **camera
 
 ## 🎬 Final Output
 
+https://github.com/user-attachments/assets/fa0935b3-80a4-4326-9435-0f330a319963
+
 - **Video**: `[mini-movie]fever_dream_of_declined.mp4`
 - **Length**: 11 seconds (330 frames @ 30 FPS)
 
